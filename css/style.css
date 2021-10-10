@@ -72,7 +72,8 @@ h1 {
 @media (max-width: 600px) {
   ul {
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    font-size: 0.625em;
   }
 }
 #product-section {
