@@ -69,11 +69,11 @@ h1 {
     flex-wrap: wrap;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   ul {
     flex-wrap: wrap;
-    justify-content: space-around;
-    font-size: 0.625em;
+justify-content:space-around;
+    font-size: .8em;
   }
 }
 #product-section {
